@@ -1,0 +1,14 @@
+ .form{
+    background-color: blanchedalmond;
+    max-width: 700px;
+    
+ }
+
+ .button{
+     background-color: rgb(251, 0, 0);
+     color: white ;
+ }
+  .button:disabled{
+    color: rgb(204, 35, 35);
+  }
+
